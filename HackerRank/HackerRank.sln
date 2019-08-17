@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenges", "ChallengeSockMerchant\Challenges.csproj", "{9237EB05-9271-4792-B40D-3272AEC60882}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenges", "Challenges\Challenges.csproj", "{9237EB05-9271-4792-B40D-3272AEC60882}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengesTest", "ChallengesTest\ChallengesTest.csproj", "{CB326CA7-1BFB-4502-BD4E-ABA75AF6DC9B}"
 EndProject

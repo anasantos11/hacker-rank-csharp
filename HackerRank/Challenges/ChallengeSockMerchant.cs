@@ -34,17 +34,6 @@ namespace Challenges
     /// </summary>
     public static class ChallengeSockMerchant
     {
-        public static void Main(string[] args)
-        {
-            //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
-            int n = Convert.ToInt32(Console.ReadLine());
-            int[] ar = Array.ConvertAll(Console.ReadLine().Split(' '), arTemp => Convert.ToInt32(arTemp));
-            int result = SockMerchant(n, ar);
-            //textWriter.WriteLine(result);
-            //textWriter.Flush();
-            //textWriter.Close();
-        }
-
         public static int SockMerchant(int n, int[] ar)
         {
             IEnumerable<int> stockings = ar.AsEnumerable().Where(sock => sock > 0 && sock <= 100);

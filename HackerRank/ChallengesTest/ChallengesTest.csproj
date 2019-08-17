@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ChallengeSockMerchant\Challenges.csproj" />
+    <ProjectReference Include="..\Challenges\Challenges.csproj" />
   </ItemGroup>
 
 </Project>
