@@ -5,6 +5,7 @@ using System.Linq;
 namespace Challenges
 {
     /// <summary>
+    /// Available in: <see href="https://www.hackerrank.com/challenges/counting-valleys/problem">HackerRank - Counting Valleys</see>
     /// Problem resolved:
     ///     Gary is an avid hiker. He tracks his hikes meticulously, paying close attention to small details like topography. 
     ///     During his last hike he took exactly n steps. For every step he took, he noted if it was an uphill, U , or a downhill, D step. 
